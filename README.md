@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig' in den Benz, dunkle Scheiben, die Nacht gehört uns
+> Dein Blick zieht mich an, du bist pures Gift, meine Kunst
+> Vergiss mal den Rest, diese Vibes sind nur für uns zwei
+> Lass uns verlier'n im Bass, Baby, mach dich jetzt frei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
